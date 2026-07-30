@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prakash/Desktop/Study/Cpp_Advanced",
-      "program": "c:/Users/prakash/Desktop/Study/Cpp_Advanced/build/Debug/outDebug",
+      "cwd": "c:/Users/prakash/Desktop/POTD/Threads",
+      "program": "c:/Users/prakash/Desktop/POTD/Threads/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
